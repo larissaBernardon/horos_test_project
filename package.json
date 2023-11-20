@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "vulcan build",
+    "dev": "vulcan dev"
+  },
+  "dependencies": {
+    "edge-functions": "2.0.0-stage.3",
+    "horos": "1.0.0-stage.8"
+  }
+}
